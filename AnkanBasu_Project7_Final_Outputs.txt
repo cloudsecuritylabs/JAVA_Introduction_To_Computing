@@ -1,0 +1,230 @@
+Project7.main({ });
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 1
+
+ Tax Rates are:
+10.0 15.0 25.0 28.0 33.0 35.0 39.6 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 3
+
+Your filing status is: 3
+--------------------------------------------------------------------
+
+Please enter your taxable amount: 10000
+
+You have entered a taxable income of 10000.0
+--------------------------------------------------------------------
+The tax on $ 10000.00 for a Head of Household filer is $ 1000.00 
+--------------------------------------------------------------------
+######################################################################
+Yes button clicked, please continue entering score for the next course
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 1
+
+ Tax Rates are:
+10.0 15.0 25.0 28.0 33.0 35.0 39.6 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 1
+
+Your filing status is: 1
+--------------------------------------------------------------------
+
+Please enter your taxable amount: 1
+
+You have entered a taxable income of 1.0
+--------------------------------------------------------------------
+The tax on $ 1.00 for a Single filer is $ 0.10 
+--------------------------------------------------------------------
+Good Bye
+Project7.main({ });
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 1
+
+ Tax Rates are:
+10.0 15.0 25.0 28.0 33.0 35.0 39.6 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 2
+
+Your filing status is: 2
+--------------------------------------------------------------------
+
+Please enter your taxable amount: 99000
+
+You have entered a taxable income of 99000.0
+--------------------------------------------------------------------
+The tax on $ 99000.00 for a Married filer is $ 16607.50 
+--------------------------------------------------------------------
+######################################################################
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 1
+
+ Tax Rates are:
+10.0 15.0 25.0 28.0 33.0 35.0 39.6 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 3
+
+Your filing status is: 3
+--------------------------------------------------------------------
+
+Please enter your taxable amount: 35000
+
+You have entered a taxable income of 35000.0
+--------------------------------------------------------------------
+The tax on $ 35000.00 for a Head of Household filer is $ 4612.50 
+--------------------------------------------------------------------
+######################################################################
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 2
+Enter 7 tax rates one per line. 
+
+For example for 10% tax rare, input 10 and press ENTER: 
+10
+12
+14
+15
+18
+20
+25
+
+ Tax Rates are:
+10.0 12.0 14.0 15.0 18.0 20.0 25.0 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 2
+
+Your filing status is: 2
+--------------------------------------------------------------------
+
+Please enter your taxable amount: 43000
+
+You have entered a taxable income of 43000.0
+--------------------------------------------------------------------
+The tax on $ 43000.00 for a Married filer is $ 4803.00 
+--------------------------------------------------------------------
+######################################################################
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 100
+
+Please correct your entry: wew
+
+You have entered non numeric selection.
+
+Please correct your selection: 1
+
+ Tax Rates are:
+10.0 15.0 25.0 28.0 33.0 35.0 39.6 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 100
+
+Please correct your entry: we
+
+You have entered non numeric selection.
+
+Please correct your selection: 2
+
+Your filing status is: 2
+--------------------------------------------------------------------
+
+Please enter your taxable amount: 121
+
+You have entered a taxable income of 121.0
+--------------------------------------------------------------------
+The tax on $ 121.00 for a Married filer is $ 12.10 
+--------------------------------------------------------------------
+######################################################################
+WELCOME TO TAX CALCULATOR PROGRAM
+--------------------------------------------------------------------
+To use default tax rates, enter 1
+To enter taxrates of your choice, enter 2?
+Enter choice: 2
+Enter 7 tax rates one per line. 
+
+For example for 10% tax rare, input 10 and press ENTER: 
+10
+15
+20
+25
+30
+35
+40
+
+ Tax Rates are:
+10.0 15.0 20.0 25.0 30.0 35.0 40.0 
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+Please enter your filing status 
+1 = Single Filers, 
+2 = Married Joint Filers, 
+3 = Head of Household
+Enter Status: 2
+
+Your filing status is: 2
+--------------------------------------------------------------------
+
+Please enter your taxable amount: wer
+
+You have entered non numeric selection.
+
+Please correct your selection: -199
+
+Please correct your entry: 10000
+
+You have entered a taxable income of 10000.0
+--------------------------------------------------------------------
+The tax on $ 10000.00 for a Married filer is $ 1000.00 
+--------------------------------------------------------------------
+Good Bye

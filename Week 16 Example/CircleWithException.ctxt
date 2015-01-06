@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircleWithException()
+comment0.text=Construct\ a\ circle\ with\ radius\ 1
+comment1.params=newRadius
+comment1.target=CircleWithException(double)
+comment1.text=Construct\ a\ circle\ with\ a\ specified\ radius
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=Return\ radius
+comment3.params=newRadius
+comment3.target=void\ setRadius(double)
+comment3.text=Set\ a\ new\ radius
+comment4.params=
+comment4.target=int\ getNumberOfObjects()
+comment4.text=Return\ numberOfObjects
+comment5.params=
+comment5.target=double\ findArea()
+comment5.text=Return\ the\ area\ of\ this\ circle
+numComments=6
